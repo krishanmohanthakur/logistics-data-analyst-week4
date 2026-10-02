@@ -1,0 +1,9 @@
+Insight
+"The dataset contains 1,200 simulated shipments with operational, transportation, traffic, weather and priority variables."
+"The average simulated delivery time is 19.26 days, while the median is 17.24 days."
+Linear Regression produced the lowest RMSE among the three tested models in the fixed train/test split.
+"The selected model achieved MAE of 1.27 days, RMSE of 1.60 days and R² of 0.972."
+Average delivery time varies by transport mode; Sea has the highest simulated average and Air the lowest.
+Higher traffic and adverse weather conditions are associated with longer simulated delivery times.
+"Distance shows a positive relationship with delivery time, indicating that longer routes require greater time allowances."
+The feature-importance analysis provides a basis for prioritizing operational variables during planning.

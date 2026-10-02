@@ -1,0 +1,9 @@
+Metric,Value
+Dataset Rows,1200
+Average Delivery Time (days),19.26
+Median Delivery Time (days),17.24
+Average Transportation Cost,68.39
+Best Model,Linear Regression
+Best Model MAE (days),1.272
+Best Model RMSE (days),1.596
+Best Model R2,0.972
